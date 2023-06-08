@@ -26,6 +26,21 @@ npm run start:dev
 yarn run start:dev
 ```
 
+## Adicionando um carro para aparecer no front
+* Abra uma aplicação tal como POSTMAN ou INSOMNIA
+* Crie uma resição do tipo **POST** 
+* Adicione a URL http://localhost:3000/cars
+*Copie o body do tipo JSON para aplicação e mande executar.
+```json
+{
+  "placa": "YZA567",
+  "chassi": "9I5J7K9L1M3N5O7P0",
+  "renavam": "90123456789",
+  "modelo": "SUV",
+  "marca": "Mercedes-Benz",
+  "ano": 2019
+}
+```
 
 * Uma vez a api rodando corretamente pode ser executado o frontend na pasta *car-front*
 
