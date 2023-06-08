@@ -30,7 +30,7 @@ yarn run start:dev
 * Abra uma aplicação tal como POSTMAN ou INSOMNIA
 * Crie uma resição do tipo **POST** 
 * Adicione a URL http://localhost:3000/cars
-*Copie o body do tipo JSON para aplicação e mande executar.
+* Copie o body do tipo JSON para aplicação e mande executar.
 ```json
 {
   "placa": "YZA567",
