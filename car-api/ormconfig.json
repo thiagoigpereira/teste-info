@@ -1,0 +1,9 @@
+{
+  "type": "sqlite",
+  "database": "cars.db",
+  "synchronize": true,
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "cli": {
+    "entitiesDir": "src"
+  }
+}

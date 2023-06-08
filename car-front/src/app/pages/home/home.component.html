@@ -1,0 +1,24 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Placa</th>
+      <th>Chassi</th>
+      <th>Renavam</th>
+      <th>Modelo</th>
+      <th>Marca</th>
+      <th>Ano</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let car of cars">
+      <td>{{ car.id }}</td>
+      <td>{{ car.placa }}</td>
+      <td>{{ car.chassi }}</td>
+      <td>{{ car.renavam }}</td>
+      <td>{{ car.modelo }}</td>
+      <td>{{ car.marca }}</td>
+      <td>{{ car.ano }}</td>
+    </tr>
+  </tbody>
+</table>
