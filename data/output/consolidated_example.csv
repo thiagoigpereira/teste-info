@@ -1,0 +1,3 @@
+source_file,source_type,source_sheet,imported_at,campanha,data,alcance,impressoes,engajamento,cliques
+sprout_social_example.csv,campaign,,2026-05-04T12:00:00+00:00,Campanha Inverno,2026-05-01,1200,3400,210,
+manual_campaign_example.csv,manual,,2026-05-04T12:00:00+00:00,Campanha Manual,2026-05-03,800,1200,95,34
