@@ -1,0 +1,8 @@
+{
+  "campanha": ["campaign", "campanha", "nome da campanha"],
+  "data": ["date", "data", "dia"],
+  "alcance": ["reach", "alcance"],
+  "impressoes": ["impressions", "impressoes", "impressões"],
+  "engajamento": ["engagement", "engajamento", "interacoes", "interações"],
+  "cliques": ["clicks", "cliques"]
+}
